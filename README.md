@@ -12,4 +12,4 @@ This repository is dedicated to the Arrow Battery management controller unit pla
 
 **Executable:** BMS_GUI.exe Prebuilt GUI host Application Windows 10 binary and dependencies
 
-**Documents:** Technical documents** 
+**Documents:** Technical documents 
