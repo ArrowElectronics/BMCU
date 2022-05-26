@@ -7,8 +7,8 @@ BY DOWNLOADING, REPRODUCING, DISTRIBUTING OR OTHERWISE USING THE SOFTWARE, YOU A
 This repository is dedicated to the Arrow Battery management controller unit platform including source code, technical documentation and user guides. The repository contains following folders.
 
 **Source:** 
-      - BMS_MASTER: BMCU Firmware Source code 
-      - ADI_BMS_UI: Python GUI host application source code
+      <br />      - **BMS_MASTER:** BMCU Firmware Source code 
+      <br />      - **ADI_BMS_UI:** Python GUI host application source code
 
 **Executable:** BMS_GUI.exe Prebuilt GUI host Application Windows 10 binary and dependencies
 
